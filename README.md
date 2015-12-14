@@ -2,14 +2,15 @@
 
 Contains my ruby/git-friendly prompt and a ``ws`` project folder switcher.
 
-!(example.png)
+<img src="example.png" />
+
+## Install
 
 ```
 git clone ...
 cd into it
 cp chrpes.zsh-theme ~/.oh-my-zsh/themes/
 cp -R plugin ~/.oh-my-zsh/custom/plugins/chrpes
-cp
 ```
 
 Enable the theme in ``~/.zshrc``:
